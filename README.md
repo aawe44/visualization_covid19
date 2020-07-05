@@ -12,8 +12,9 @@
 
 
 * Waffle plot 
-![Waffle](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/Treemap.png?token=AKPDVTZTOVZSULBBW5TC2IS7AGNJC)
+![Treemap](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/waffle_plot.png?token=AKPDVT7ES3ZK2ZDBHBMQGXS7AGNJQ)  
+
 
 * Tree map plot
-![Treemap](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/waffle_plot.png?token=AKPDVT7ES3ZK2ZDBHBMQGXS7AGNJQ)  
+![Waffle](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/Treemap.png?token=AKPDVTZTOVZSULBBW5TC2IS7AGNJC)
 
