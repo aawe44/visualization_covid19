@@ -1,7 +1,13 @@
 # visualization_covid19
 
 * Scatter plot on map 
+
+![plot](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/gif/plot_map_v2.gif)
+
 * BarChartRace
+
+![plot](https://github.com/aawe44/visualization_covid19/blob/master/gif/plot_BarChartRace.gif?raw=true)
+
 * Pie plot
 
 ![plot](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/pieplot.png?token=AKPDVTYWBAHHYVIHLR7CGMS7AGNQ4)
