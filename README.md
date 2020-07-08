@@ -8,6 +8,10 @@
 
 ![plot](https://github.com/aawe44/visualization_covid19/blob/master/gif/plot_BarChartRace.gif?raw=true)
 
+* Bar plot 
+
+![plot](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/barplot.png)
+
 * Pie plot
 
 ![plot](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/pieplot.png?token=AKPDVTYWBAHHYVIHLR7CGMS7AGNQ4)
