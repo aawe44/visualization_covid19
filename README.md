@@ -10,21 +10,21 @@
 
 * Bar plot 
 
-![plot](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/barplot.png)
+![plot_bar](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/plot_bar.png)
 
 * Pie plot
 
-![plot](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/pieplot.png?token=AKPDVTYWBAHHYVIHLR7CGMS7AGNQ4)
+![plot_pie](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/plot_pie.png)
 
 * Stack plot 
 
-![StackPlot](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/stackplot.png?token=AKPDVTYX67BDNF7FPQOGKLS7AGNRI)
+![plot_stack](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/plot_stack.png)
 
 
 * Waffle plot 
-![Treemap](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/waffle_plot.png?token=AKPDVT7ES3ZK2ZDBHBMQGXS7AGNJQ)  
+![plot_waffle](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/plot_waffle.png)  
 
 
 * Tree map plot
-![Waffle](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/Treemap.png?token=AKPDVTZTOVZSULBBW5TC2IS7AGNJC)
+![plot_treemap](https://raw.githubusercontent.com/aawe44/visualization_covid19/master/pic/plot_treemap.png)
 
