@@ -21,20 +21,3 @@ def search(target_day):
     return all_states, cases
 
 
-target_day = "2020-06-13"
-
-all_states, cases = search(target_day)
-
-k = 10
-state_top_k = all_states[:k]
-cases_top_k = cases[:k]
-
-state_top_k.reverse()
-state_top_k.append("Other states")
-
-cases_top_k.reverse()
-cases_top_k.append(sum(cases[k:]))
-
-
-for state, cases in zip(state_top_k, cases_top_k):
-    print(state, cases)
